@@ -1,15 +1,3 @@
-📚 CampusSync
-<div align="center">
-![CampusSync Banner](https://img.shields.io/badge/CampusSync-Academic%20Companion-4C6EF5?style=for-the-badge&logo=android&logoColor=white)
-A smart academic companion app for engineering students  
-Track attendance, predict CGPA, and manage your schedule — all in one place
-![Android](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)
-![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?style=flat-square&logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue?style=flat-square&logo=jetpackcompose)
-![Room DB](https://img.shields.io/badge/Database-Room-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-red?style=flat-square)
-</div>
----
 🎯 Problem Statement
 Every engineering student manually tracks:
 "How many classes have I attended?"
